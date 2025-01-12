@@ -6,7 +6,7 @@ function Header() {
 
   return (
     <header className="p-4 flex justify-between items-center">
-      <h1 className="text-2xl font-bold">Temario de Clases de Programación Web</h1>
+      <h1 className="text-2xl font-bold">Temario de Clases - Introduccion a las aplicaciones móviles</h1>
       <button
         onClick={toggleDarkMode}
         className={`p-2 rounded-md ${

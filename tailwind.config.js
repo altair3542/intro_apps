@@ -1,11 +1,16 @@
 module.exports = {
   purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'class', // Activar modo oscuro basado en clases
   theme: {
     extend: {
       colors: {
-        dark: '#1a202c',
-        light: '#f7fafc',
+        darkPrimary: '#00796B', // Dark primary color
+        lightPrimary: '#B2DFDB', // Light primary color
+        primary: '#009688', // Primary color
+        accent: '#607D8B', // Accent color
+        textPrimary: '#212121', // Primary text
+        textSecondary: '#757575', // Secondary text
+        divider: '#BDBDBD', // Divider color
       },
     },
   },

@@ -10,7 +10,7 @@ function Footer() {
         darkMode ? "bg-gray-800 text-gray-400" : "bg-gray-200 text-gray-700"
       }`}
     >
-      <p>© 2024 Santiago Mesa Serna - Todos los derechos reservados</p>
+      <p>© 2025 Santiago Mesa Serna - Todos los derechos reservados</p>
       <p>Hecho con React <span role="img" aria-label="React">⚛️</span></p>
     </footer>
   );
