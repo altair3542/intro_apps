@@ -11,28 +11,28 @@
     "description": "Entender cómo interactuar con el DOM y manejar eventos.",
     "date": "24/10/2024",
     "link": "/session/2",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "title": "Sesión 3: Introducción a React",
     "description": "Introducir el concepto de componentes y estado en React.",
     "date": "29/10/2024",
     "link": "/session/3",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "title": "Sesión 4: Formularios y validaciones",
     "description": "Aprender a trabajar con formularios dinámicos y validar entradas de usuario.",
     "date": "31/10/2024",
     "link": "/session/4",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "title": "Sesión 5: Introducción a Django y Django Rest Framework (DRF)",
     "description": "Crear una API funcional en Django para que el frontend (React) pueda interactuar con ella.",
     "date": "05/11/2024",
     "link": "/session/5",
-    "isAvailable": true
+    "isAvailable": false
   },
   {
     "title": "Sesión 6: Integración de Frontend con Backend",
