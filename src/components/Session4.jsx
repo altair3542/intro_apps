@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Prism from "prismjs";
 import "prismjs/themes/prism-tomorrow.css";
@@ -122,15 +122,6 @@ const CarnetEstudiante = () => {
 export default CarnetEstudiante;`}
           </code>
         </pre>
-
-        <h3 className="text-xl font-semibold mt-6">4. Actividad Práctica</h3>
-        <p className="mt-2">
-          Cada estudiante debe:
-        </p>
-        <ul className="list-disc list-inside mt-2">
-          <li>Agregar nuevos campos al carnet: Universidad, correo electrónico, etc.</li>
-          <li>Modificar los colores del fondo utilizando Tailwind CSS.</li>
-        </ul>
       </section>
 
       <div className="mt-8 text-center">
@@ -150,3 +141,4 @@ export default CarnetEstudiante;`}
 }
 
 export default Session4;
+
