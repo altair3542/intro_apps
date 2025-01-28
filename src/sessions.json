@@ -11,21 +11,21 @@
     "description": "Instalación y configuración de Node.js, Expo CLI, VS Code y emuladores para iniciar el desarrollo en React Native.",
     "date": "16/01/2025",
     "link": "/session/2",
-    "isAvailable": false
+    "isAvailable": true
   },
   {
     "title": "Sesión 3: Componentes y Propiedades Básicas en React Native",
     "description": "Conceptos clave de componentes, uso de JSX y manejo de propiedades (props) con ejemplos básicos.",
     "date": "21/01/2025",
     "link": "/session/3",
-    "isAvailable": false
+    "isAvailable": true
   },
   {
     "title": "Sesión 4: Manejo de Estados y Estilos en React Native",
     "description": "Uso del estado (useState), aplicación de estilos con StyleSheet y Flexbox para diseño responsivo.",
     "date": "23/01/2025",
     "link": "/session/4",
-    "isAvailable": false
+    "isAvailable": true
   },
   {
     "title": "Sesión 5: Manejo de Navegación en React Native",

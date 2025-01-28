@@ -5,6 +5,9 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import HomeContent from "./components/HomeContent";
 import Session1 from "./components/Session1";
+import Session2 from "./components/Session2";
+import Session3 from "./components/Session3";
+import Session4 from "./components/Session4";
 
 
 function App() {
@@ -21,6 +24,9 @@ function App() {
         <Routes>
           <Route path="/" element={<HomeContent />} />
           <Route path="/session/1" element={<Session1 />} />
+          <Route path="/session/2" element={<Session2 />} />
+          <Route path="/session/3" element={<Session3 />} />
+          <Route path="/session/4" element={<Session4 />} />
         </Routes>
         <Footer />
       </div>
